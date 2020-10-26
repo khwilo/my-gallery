@@ -142,3 +142,17 @@ img {
     grid-row: 3 / 4;
   }
 }
+
+.footer {
+  margin-top: 3rem;
+  padding: 2rem 0;
+}
+
+.footnote {
+  text-align: center;
+}
+
+.footnote__content {
+  font-weight: 600;
+  font-size: 0.875rem;
+}
