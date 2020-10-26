@@ -38,6 +38,13 @@ img {
   padding: 0 1rem;
 }
 
+@media (min-width: 35em) {
+  .wrapper {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
 .header {
   padding: 3rem 0;
 }
